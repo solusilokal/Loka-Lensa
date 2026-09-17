@@ -32,13 +32,15 @@ rental kamera/
 ├── public/
 │   ├── Gemini_Generated_Image_gymx90gymx90gymx.jpg   # Gambar hero banner kamera
 │   ├── logo-loka-lensa.png                          # Logo resmi Loka Lensa
+│   ├── gambarSEO.jpg                                # Banner preview SEO (kompresi <300KB untuk WhatsApp)
+│   ├── gambarSEO.png                                # Banner preview SEO resolusi asli
 │   ├── sony-a7-iii.webp                             # Foto katalog Sony A7 III
 │   ├── canon-eos-r.webp                             # Foto katalog Canon EOS R
 │   ├── sony-fe-50mm.webp                            # Foto katalog Lensa Sony FE 50mm
 │   ├── dji-ronin-sc2.webp                           # Foto katalog DJI Ronin SC 2
 │   └── godox-sl60w.webp                             # Foto katalog Godox SL60W
 ├── src/
-│   ├── assets/                                      # Aset gambar & ikon
+│   ├── assets/                                      # Aset gambar, banner SEO, & ikon
 │   ├── App.jsx                                      # Komponen utama React Loka Lensa
 │   ├── index.css                                    # Konfigurasi Tailwind & Google Fonts Plus Jakarta Sans
 │   └── main.jsx                                     # Entry point aplikasi React
@@ -46,6 +48,8 @@ rental kamera/
 ├── preview.bat                                      # Script launcher 1-klik untuk Windows
 ├── index.html                                       # File HTML utama untuk Vite
 ├── logo-loka-lensa.png                              # Logo resmi Loka Lensa (root)
+├── gambarSEO.jpg                                    # Banner preview SEO (root)
+├── gambarSEO.png                                    # Banner preview SEO PNG (root)
 ├── package.json                                     # Konfigurasi dependensi npm
 ├── vite.config.js                                   # Konfigurasi Vite server & build
 ├── tailwind.config.js                               # Konfigurasi Tailwind CSS

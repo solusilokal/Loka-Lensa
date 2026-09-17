@@ -53,14 +53,19 @@ const singleHtml = `<!doctype html>
     <meta property="og:url" content="https://solusilokal.github.io/Loka-Lensa/" />
     <meta property="og:title" content="Loka Lensa - Pusat Sewa Kamera & Lensa Terlengkap" />
     <meta property="og:description" content="Abadikan setiap momen berharga dengan gear profesional dari Loka Lensa. Layanan sewa kamera, lensa, dan perlengkapan audio visual di Palangka Raya." />
-    <meta property="og:image" content="https://solusilokal.github.io/Loka-Lensa/logo-loka-lensa.png" />
+    <meta property="og:image" content="https://solusilokal.github.io/Loka-Lensa/gambarSEO.jpg" />
+    <meta property="og:image:secure_url" content="https://solusilokal.github.io/Loka-Lensa/gambarSEO.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="705" />
+    <meta property="og:image:height" content="897" />
+    <meta property="og:image:alt" content="Loka Lensa - Pusat Sewa Kamera & Lensa Terlengkap Palangka Raya" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:url" content="https://solusilokal.github.io/Loka-Lensa/" />
     <meta name="twitter:title" content="Loka Lensa - Pusat Sewa Kamera & Lensa Terlengkap" />
     <meta name="twitter:description" content="Abadikan setiap momen berharga dengan gear profesional dari Loka Lensa. Layanan sewa kamera, lensa, dan perlengkapan audio visual di Palangka Raya." />
-    <meta name="twitter:image" content="https://solusilokal.github.io/Loka-Lensa/logo-loka-lensa.png" />
+    <meta name="twitter:image" content="https://solusilokal.github.io/Loka-Lensa/gambarSEO.jpg" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
